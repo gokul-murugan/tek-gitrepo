@@ -19,3 +19,5 @@ git rm <file-name> --cached (or) -f  ==> Remove the specific file that was added
 git commit -m "Message"  ==> Commits the changes
 
 git push ===> Actual pushed the code from your LOCAL to REMOTE (--set-upstream is required only for first time)
+  
+SETUP SSH https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh
