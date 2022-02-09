@@ -18,4 +18,4 @@ git rm <file-name> --cached (or) -f  ==> Remove the specific file that was added
 
 git commit -m "Message"  ==> Commits the changes
 
-git push ===> Actual pushed the code from your LOCAL to REMOTE (set upstream)
+git push ===> Actual pushed the code from your LOCAL to REMOTE (--set-upstream is required only for first time)
