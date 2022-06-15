@@ -1,3 +1,5 @@
+## GIT COMMANDS
+
 git clone <repo_link>  ==> Download the copy of Repo into your Local
 
 git checkout -b <branch-name> ==> Creates a branch in your Local
